@@ -1,3 +1,8 @@
+#Zachary Warnick
+#COSC380
+#Computer Information Systems 
+
+
 #Import Time
 import time
 
